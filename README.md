@@ -1,20 +1,16 @@
 # Basic-Banking-App
+# AndroidDeveloper
+# Gripjuly2021
 
-The Sparks Foundation Internship Project : 
+The Sparks Foundation Internship Project : SivaBalan
 
-Basic Banking App  
+Title    : Basic Banking App  
 
-Language :
+Language : JAVA
 
-JAVA
+Database : SQLite
 
-Database : 
-
-SQLite
-
-IDE :
-
-Android Studio
+IDE      : Android Studio
 
 The Application That Have:
 
